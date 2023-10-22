@@ -11,42 +11,45 @@
 这厮诈骗行为包括但不限于：通过QQ群、微信群中发布消息，谎称自己经营宠物批发和宠物治疗业务，收取货款后不发货、发一部分货物、不提供服务，出售假货，售后问题不退款、退款只退一部分，或者在收取定金后、录制虚假的发货视频让被害人支付尾款，亦或是发送病的、死亡的、假冒的宠物来骗取被害人支付货款，后变更联系方式逃匿等。
 特点：之前因为诈骗判过刑，出狱后死不悔改继续诈骗，但开始学乖了，单次诈骗金额通常在1000以内，远不到量刑额度，也远低于起诉调研及时间成本，往往让受害者不了了之。
 ## 0x12 诈骗惯犯实名信息
-姓名：张芷华
-性别：男
-公民身份证号：511681199604106213
-出生日期：1996年4月10日
-名族：汉
-户籍地址：四川省华蓥市庆华镇江华社区2组102号
-学历：小学文化
+* 姓名：张芷华
+* 性别：男
+* 公民身份证号：511681199604106213
+* 出生日期：1996年4月10日
+* 名族：汉
+* 户籍地址：四川省华蓥市庆华镇江华社区2组102号
+* 学历：小学文化
+* ![img](https://github.com/sbzzh/SB_ZhangZhihua/blob/main/1.PNG)
+* 电话号码： 17585528883、18584879878
+* 银行卡号：6222032404002457000（工商银行）
+* 微信号： arrebol0960/Rangers0009（经常改id，绑定手机18584879878，该手机号支付宝未实名）
+* ![img](https://github.com/sbzzh/SB_ZhangZhihua/blob/main/2.PNG)
+* 支付宝号：17585528883（经常改id，绑定手机17585528883，实名：张芷华）
+* ![img](https://github.com/sbzzh/SB_ZhangZhihua/blob/main/3.PNG)
 
-电话号码： 17585528883、18584879878
-银行卡号：6222032404002457000（工商银行）
-微信号： arrebol0960/Rangers0009（经常改id，绑定手机18584879878，该手机号支付宝未实名）
-[图片]
-支付宝号：17585528883（经常改id，绑定手机17585528883，实名：张芷华）
-[图片]
 ## 0x13 曾用收款信息
-[图片]
-[图片]
-[图片]
-[图片]
-[图片]
+* ![img](https://github.com/sbzzh/SB_ZhangZhihua/blob/main/4.png)
+* ![img](https://github.com/sbzzh/SB_ZhangZhihua/blob/main/5.png)
+* ![img](https://github.com/sbzzh/SB_ZhangZhihua/blob/main/6.png)
+* ![img](https://github.com/sbzzh/SB_ZhangZhihua/blob/main/7.png)
+* ![img](https://github.com/sbzzh/SB_ZhangZhihua/blob/main/8.png)
+  
 ## 0x14 失信被执行人
-案号:(2020)苏0102执5099号,执行依据文号:(2020)苏0102民初4490号
-刻意拖欠重庆苏宁小额贷款（不足壹万元）而被纳入失信被执行人名单
-爱企查（https://aiqicha.baidu.com/discredit/dishonestlist?t=8&q=%E5%BC%A0%E8%8A%B7%E5%8D%8E&disId=cb132a4ca84843b24e1f44d59cbcefa0&tab=risk&subtab=discredit）
-天眼查（https://www.tianyancha.com/dishonest/detail/4oz11914f9fd59476ec03919bl051f77/t2?id=1931803343&card=5116811996****6213&source=1）
-[图片]
-中国裁判文书网：
-[图片]
-[图片]
+* 案号:(2020)苏0102执5099号,执行依据文号:(2020)苏0102民初4490号
+* 刻意拖欠重庆苏宁小额贷款（不足壹万元）而被纳入失信被执行人名单
+* 爱企查（https://aiqicha.baidu.com/discredit/dishonestlist?t=8&q=%E5%BC%A0%E8%8A%B7%E5%8D%8E&disId=cb132a4ca84843b24e1f44d59cbcefa0&tab=risk&subtab=discredit）
+* ![img](https://github.com/sbzzh/SB_ZhangZhihua/blob/main/9.png)
+* 中国裁判文书网：
+* ![img](https://github.com/sbzzh/SB_ZhangZhihua/blob/main/10.png)
+* ![img](https://github.com/sbzzh/SB_ZhangZhihua/blob/main/11.png)
+
 ## 0x15 被判诈骗罪
-案号：（2018）渝0112刑初548号
-通过网络经营宠物批发和宠物治疗业务从而欺诈骗钱已经是惯例，属于惯犯累犯。
-中国裁判文书网：
-[图片]
-[图片]
-[图片]
+* 案号：（2018）渝0112刑初548号
+* 通过网络经营宠物批发和宠物治疗业务从而欺诈骗钱已经是惯例，属于惯犯累犯。
+* 中国裁判文书网：
+* ![img](https://github.com/sbzzh/SB_ZhangZhihua/blob/main/12.png)
+* ![img](https://github.com/sbzzh/SB_ZhangZhihua/blob/main/13.png)
+* ![img](https://github.com/sbzzh/SB_ZhangZhihua/blob/main/14.png)
+
 # 0x2 警惕非平台交易
 非平台交易存在大量风险，通过微信、QQ、支付宝等社交工具进行交易，属于诈骗高发地，因此交易前需警惕：
 1. 可要求签署合同，且写明双方姓名、身份证等信息，发生纠纷易于追溯；
@@ -55,6 +58,7 @@
 4. 沟通交易与支付渠道非同一平台，比如微信沟通但被要求扫支付宝收款码支付，大概率存在风险；
 5. 沟通账号未实名 or 尝试转账提示被限制，大概率存在风险；
 6. 翻看朋友圈，出现多个收款账号信息的情况，大概率存在风险；
+
 # 0x3 信息追溯
 1. 不知道对方姓名情况下，可以给对方收款码扫码通过银行卡支付0.01元，通常在银行的交易记录中可以看到该收款账号的实名姓名；
 2. 发现诈骗大概率为惯犯，可以通过姓名优先查老赖、法院文书公开网等；
